@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.victoriavr.com	TRUE	/	FALSE	1999999999	ARRAffinity	aa8e1fc94231a6616d9c9cf9d19a69c2456023250690611bf27c09279050ef5d
+www.victoriavr.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	aa8e1fc94231a6616d9c9cf9d19a69c2456023250690611bf27c09279050ef5d
+www.victoriavr.com	TRUE	/	FALSE	1999999999	SameSite	None
+blog.victoriavr.com	TRUE	/	FALSE	1999999999	ARRAffinity	b030f554f41ae0dc267e663f9c7dfc1fd83c18c69035699ba525e72e6f435ef9
+blog.victoriavr.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	b030f554f41ae0dc267e663f9c7dfc1fd83c18c69035699ba525e72e6f435ef9
+blog.victoriavr.com	TRUE	/	FALSE	1999999999	SameSite	None
+victoriavr.com	TRUE	/	FALSE	1999999999	ARRAffinity	7566f613b0c7a36333f4bcbc6204793ede6da2b122bb0a7442bef2e3c1d11190
+victoriavr.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	7566f613b0c7a36333f4bcbc6204793ede6da2b122bb0a7442bef2e3c1d11190
+victoriavr.com	TRUE	/	FALSE	1999999999	SameSite	None
+
